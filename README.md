@@ -1,16 +1,20 @@
-# dice_rolling_app
+# Dice Rolr App
 
-A new Flutter project.
+This is my first functional **_Flutter_** app.This is a simp **_Dice Rolling App_**.
 
-## Getting Started
+## Learning
 
-This project is a starting point for a Flutter application.
+By building this app,i've arned-
 
-A few resources to get you started if this is your first Flutter project:
+- Statefull Widget
+- How to manage _states_ in Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Developer Info-
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I am Sonet Adhikary.I am a self-taught developer.
+
+Emain- sonet.ad101@gmail.com
+
+Twitter- sonetthecoder
+
+Instagram- sonetthecoder
